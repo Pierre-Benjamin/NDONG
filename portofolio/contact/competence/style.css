@@ -1,0 +1,35 @@
+.page-content {
+    margin: 4%;
+}
+.page-content header {
+    margin-top: 5%;
+    max-width: 80%;
+}
+.page-content header h1 {
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Oswald',sans-serif;
+    font-size: 2vw;
+}
+
+    
+
+
+    
+   
+
+
+.page-content .projects-section {
+    margin-top: 6%;
+}
+.page-content .projects-section div {
+    display: flex;
+    flex-wrap: wrap;
+}
+.page-content .projects-section div div {
+    margin-right: 50px;
+    max-width: 195px;
+}
+.page-content .projects-section div div h4 {
+    margin: 0;
+}
